@@ -6,4 +6,4 @@ function iatudor($ia) {
 
 iatudor("Ionut Atudoroaie");
 
-?>
+?
